@@ -1,0 +1,4 @@
+*.v5code
+*.json
+*.mk
+**\makefile
