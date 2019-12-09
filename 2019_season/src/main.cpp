@@ -1,6 +1,10 @@
 // To complete the VEXcode V5 Text project upgrade process, please follow the
 // steps below.
+<<<<<<< HEAD
 // 
+=======
+// I COMMITED THIS
+>>>>>>> 1081b348988ae83e5baf1354b07b3dcbe794ce0b
 // 1. You can use the Robot Configuration window to recreate your V5 devices
 //   - including any motors, sensors, 3-wire devices, and controllers.
 // 
@@ -38,6 +42,13 @@ int main() {
 // // ---- START VEXCODE CONFIGURED DEVICES ----
 // // Robot Configuration:
 // // [Name]               [Type]        [Port(s)]
+// // Controller1          controller                    
+// // FrontLeft            motor         1               
+// // BackLeft             motor         2               
+// // FrontRight           motor         9               
+// // BackRight            motor         10              
+// // WallBoi              motor         3               
+// // WallBoi2             motor         4               
 // // ---- END VEXCODE CONFIGURED DEVICES ----
 // 
 // #include "vex.h"
